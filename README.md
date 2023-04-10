@@ -3,8 +3,8 @@
 - 🎓 Graduada em Análise e Desenvolvimento de Sistemas
 
 <div>
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=flavianny&show_icons=true&include_all_commits=true&theme=tokyonight"/>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=flavianny&show_icons=true&locale=en&layout=compact&theme=tokyonight"  alt="flavianny"/> 
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Flavianny&show_icons=true&include_all_commits=true&theme=tokyonight"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Flavianny&show_icons=true&locale=en&layout=compact&theme=tokyonight"  alt="flavianny"/> 
 </div>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
